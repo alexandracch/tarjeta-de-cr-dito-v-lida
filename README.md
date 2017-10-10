@@ -14,4 +14,7 @@ Flujo grama del código: ![recursos](https://fotos.subefotos.com/dc0be22265447ab
 4.Después de hacer esto, tengo que ubicarme en los digitos que se encuentren en las ubicaciones pares.
 5.Al extraerlo tengo que multiplicarlo por 2. Si y solo si, el número obtenido es mayor a 10, tengo que sumar sus cifras y quedarme con el producto, este será el nuevo dígito.
 6.Hago un arreglo con los nuevos dígitos.
-7.Creo una nueva funcion ya para validar
+7.Creo una nueva funcion ya para validar.
+8.Comienzo a recorrer en el algoritmo.
+9.Sumo todos los elemetos de mi array, es decir de los nuevos dígitos.
+10.Si la suma es menor a 10, hago un alert 'Tarjeta valida', si es mayor o igual a 10 hago un alert de 'Tarjeta ínvalida'.
